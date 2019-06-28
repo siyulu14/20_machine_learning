@@ -17,4 +17,4 @@ In this homework assignment, you will need to:
 - - -
 
 ## Evaluation
-According to the analysis, though grid search helpt to improve the precision, none of three gave a good score. It may because I choosed the wrong column to fit the model, or I mis-scale the data. Or they are not so correlative.
+According to the analysis, though grid search helpt to improve the precision, knn without tune got the best score (I tried to tune it, but I got an error.). None of three model got a good score. It may because I choosed the wrong column to fit the model, or I mis-scale the data. Or they are not so correlative.
